@@ -49,19 +49,6 @@ Création d'un site web complet pour un serveur Minecraft, incluant :
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GNoChance&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GNoChance&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GNoChance&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
 ## 🤝 Me contacter
 
 Je suis toujours ouvert à de nouvelles opportunités, collaborations ou simplement pour discuter tech !
@@ -71,7 +58,7 @@ Je suis toujours ouvert à de nouvelles opportunités, collaborations ou simplem
 
 ---
 
-## 💡 Objectifs 2025
+## 💡 Objectifs 2026
 
 - [ ] Maîtriser un framework JavaScript moderne (React ou Vue.js)
 - [ ] Finaliser mon site Minecraft et le déployer
@@ -80,10 +67,6 @@ Je suis toujours ouvert à de nouvelles opportunités, collaborations ou simplem
 - [ ] Développer mon portfolio personnel
 
 ---
-
-<p align="center">
-  <i>« Le code est comme l'humour. Quand tu dois l'expliquer, c'est qu'il n'est pas bon. » – Cory House</i>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GNoChance&color=blueviolet&style=flat-square&label=Visiteurs" alt="Profile views">
