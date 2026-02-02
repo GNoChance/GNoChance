@@ -11,7 +11,7 @@ Je suis actuellement en **Bachelor 2 Informatique** à Bordeaux Ynov Campus, sp�
 - 🎓 **Formation** : Bachelor Informatique (B2) à Bordeaux Ynov Campus
 - 💼 **Parcours** : BTS Bâtiment, Bac STI2D Architecture et Construction
 - 💻 **Passion** : Développement web front-end et création d'interfaces
-- 🎮 **Projet actuel** : Site web pour serveur Minecraft (en développement)
+- 🎮 **Projet actuel** : Site web pour Wiki Minecraft (en développement)
 - 🌱 **En apprentissage** : Approfondissement de JavaScript et des frameworks modernes
 - ⚡ **Fun fact** : Je jongle entre les études, le code et mon job de poissonnier le week-end !
 
