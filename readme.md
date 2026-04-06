@@ -68,18 +68,6 @@ Site web complet pour un serveur Minecraft avec une architecture full-stack mode
 
 ---
 
-## 📊 Stats GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GNoChance&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GNoChance&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
-
-</div>
-
----
-
 ## 💡 Objectifs 2026
 
 - [x] Apprendre React et l'utiliser en production
