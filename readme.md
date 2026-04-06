@@ -65,15 +65,6 @@ Site web complet pour un serveur Minecraft avec une architecture full-stack mode
 [![MCNetwork](https://img.shields.io/badge/Frontend-MCNetwork-7C3AED?style=for-the-badge&logo=github)](https://github.com/GNoChance/MCNetwork)
 [![MCNetworkBackEnd](https://img.shields.io/badge/Backend-MCNetworkBackEnd-ED8B00?style=for-the-badge&logo=github)](https://github.com/GNoChance/MCNetworkBackEnd)
 
----
-
-### 🏠 Ymmo — Application Immobilière
-**JavaScript · HTML · CSS**
-
-Application web de gestion immobilière développée en équipe, structurée en frontend/backend séparés.
-
-[![Ymmo-Front](https://img.shields.io/badge/Frontend-Ymmo--Front-0A66C2?style=for-the-badge&logo=github)](https://github.com/GNoChance/Ymmo-Front)
-[![Ymmo-Back](https://img.shields.io/badge/Backend-Ymmo--Back-16A34A?style=for-the-badge&logo=github)](https://github.com/GNoChance/Ymmo-Back)
 
 ---
 
