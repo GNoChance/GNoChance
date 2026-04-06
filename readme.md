@@ -68,15 +68,6 @@ Site web complet pour un serveur Minecraft avec une architecture full-stack mode
 
 ---
 
-### 🗃️ Autres projets
-| Projet | Tech | Description |
-|--------|------|-------------|
-| [sql-projet](https://github.com/GNoChance/sql-projet) | JS / SQL | Projet de base de données et requêtage |
-| [BonnePratiqueDeDev](https://github.com/GNoChance/BonnePratiqueDeDev) | Python | Bonnes pratiques de développement |
-| [ctf-linux-b1](https://github.com/GNoChance/ctf-linux-b1) | Shell | CTF Linux — B1 |
-
----
-
 ## 📊 Stats GitHub
 
 <div align="center">
