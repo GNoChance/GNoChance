@@ -23,7 +23,10 @@ const kevin = {
   parcours:      ["Bac STI2D Architecture & Construction", "BTS Bâtiment", "Bachelor Info"],
   focus:         ["Web apps", "Sites web", "PWA", "Full-Stack"],
   stack:         ["React", "TypeScript", "Node.js", "PostgreSQL"],
-  actuellement:  "Rune — une PWA de musculation auto-hébergée, avec coach IA",
+  actuellement:  [
+    "Les Soirées de Dédé — des mini-jeux multijoueurs pour les soirées en famille",
+    "Rune — une PWA de musculation auto-hébergée, avec coach IA",
+  ],
   funFact:       "Du bâtiment au code : je construis toujours, juste avec d'autres outils 🧱",
 };
 ```
@@ -34,9 +37,17 @@ const kevin = {
 
 <table>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### ᚱ [Rune](https://github.com/GNoChance/rune)
+### 🎲 [Les Soirées de Dédé](https://github.com/GNoChance/Soiree_Dede) · *en cours*
+PWA de **mini-jeux multijoueurs** pour les soirées en famille, dans l'esprit de Plato : 21 jeux en **temps réel** (duels, dessin, bowling en 3D…), avatars chibis à habiller et trophées. Pensée pour tous : gros boutons, zéro prise de tête.
+
+`React` `TypeScript` `PWA` `Supabase Realtime` `PostgreSQL` `Tailwind v4` `Three.js`
+
+</td>
+<td width="50%" valign="top">
+
+### ᚱ [Rune](https://github.com/GNoChance/rune) · *en cours*
 Web app installable (PWA) de suivi de musculation, **auto-hébergée** : programmes, séances **hors ligne** avec synchronisation, fiches d'exercices, coach IA au choix et repères nutrition.
 
 `React` `TypeScript` `PWA` `Monorepo pnpm` `Vitest` `Playwright` `Docker`
@@ -95,6 +106,8 @@ Infra conteneurisée : deux serveurs web derrière un load balancer Nginx, Postg
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 **Back & data** &nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
