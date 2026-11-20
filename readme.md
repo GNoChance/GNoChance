@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=170&section=header&text=Kevin%20Guarato&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20Front-End%20%E2%86%92%20Full-Stack&descAlignY=58&descSize=17" width="100%" alt="Kevin Guarato · Développeur Front-End vers Full-Stack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=170&section=header&text=Kevin%20Guarato&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20web%20%C2%B7%20Web%20apps%20%26%20sites&descAlignY=58&descSize=17" width="100%" alt="Kevin Guarato · Développeur web, web apps et sites" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=480&lines=React+%C2%B7+TypeScript+%C2%B7+PWA;Des+apps+qui+marchent+m%C3%AAme+hors+ligne;En+recherche+de+stage+front-end+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=480&lines=Web+apps+%C2%B7+Sites+web+%C2%B7+PWA;Des+apps+qui+marchent+m%C3%AAme+hors+ligne;En+alternance+chez+Capkpital+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-**Étudiant @ Bordeaux Ynov Campus** · je conçois des interfaces soignées et je les branche jusqu'au back-end.
+**Alternant @ Capkpital (Pessac)** · **Étudiant @ Bordeaux Ynov Campus** · je développe des web apps et des sites, de l'interface jusqu'au back-end.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-guarato/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinguarato@gmail.com)
@@ -19,11 +19,12 @@
 ```ts
 const kevin = {
   formation:     "Bachelor Informatique — Bordeaux Ynov Campus",
+  alternance:    "Développeur web chez Capkpital — Pessac",
   parcours:      ["Bac STI2D Architecture & Construction", "BTS Bâtiment", "Bachelor Info"],
-  focus:         ["React", "TypeScript", "PWA", "Full-Stack"],
+  focus:         ["Web apps", "Sites web", "PWA", "Full-Stack"],
+  stack:         ["React", "TypeScript", "Node.js", "PostgreSQL"],
   actuellement:  "Rune — une PWA de musculation auto-hébergée, avec coach IA",
-  jeCherche:     "Un stage en développement front-end",
-  funFact:       "Du bâtiment au code, en passant par le rayon poissonnerie 🐟",
+  funFact:       "Du bâtiment au code : je construis toujours, juste avec d'autres outils 🧱",
 };
 ```
 
@@ -33,20 +34,12 @@ const kevin = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### ᚱ [Rune](https://github.com/GNoChance/rune)
-PWA de suivi de musculation **auto-hébergée** : programmes, séances **hors ligne** avec synchronisation, fiches d'exercices, coach IA au choix et repères nutrition.
+Web app installable (PWA) de suivi de musculation, **auto-hébergée** : programmes, séances **hors ligne** avec synchronisation, fiches d'exercices, coach IA au choix et repères nutrition.
 
 `React` `TypeScript` `PWA` `Monorepo pnpm` `Vitest` `Playwright` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 [MCNetwork](https://github.com/GNoChance/MCNetwork)
-Plateforme web complète pour un serveur Minecraft : rendu des skins via l'API Mojang, dashboard joueur, historique, authentification. Back-end dans [MCNetworkBackEnd](https://github.com/GNoChance/MCNetworkBackEnd).
-
-`React` `TypeScript` `Vite` `Java` `Spring Boot`
 
 </td>
 </tr>
@@ -92,7 +85,7 @@ Infra conteneurisée : deux serveurs web derrière un load balancer Nginx, Postg
 
 ## 🛠️ Stack
 
-**Front** &nbsp;
+**Web** &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -126,18 +119,17 @@ Infra conteneurisée : deux serveurs web derrière un load balancer Nginx, Postg
 ## 🧭 Feuille de route
 
 - [x] Apprendre React et l'utiliser sur de vrais projets
-- [x] Livrer un projet full-stack (React + Spring Boot)
 - [x] Publier des apps en ligne (Vercel)
 - [x] Toucher au mobile avec React Native
+- [x] Décrocher une alternance en développement web (Capkpital, Pessac)
 - [ ] Mettre Rune entre les mains de ses premiers utilisateurs
-- [ ] Décrocher un stage en développement front-end
 - [ ] Contribuer à des projets open source
 
 ---
 
 <div align="center">
 
-**Tu cherches un stagiaire front-end motivé ?** [Écris-moi](mailto:kevinguarato@gmail.com), je réponds vite.
+**Une idée de site ou de web app ?** [Écris-moi](mailto:kevinguarato@gmail.com), on en parle.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=90&section=footer" width="100%" alt="" />
 
