@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=170&section=header&text=Kevin%20Guarato&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20web%20%C2%B7%20Web%20apps%20%26%20sites&descAlignY=58&descSize=17" width="100%" alt="Kevin Guarato · Développeur web, web apps et sites" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=170&section=header&text=Kevin%20Guarato&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20web%20%C2%B7%20Web%20apps%20et%20sites&descAlignY=58&descSize=17" width="100%" alt="Kevin Guarato · Développeur web, web apps et sites" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=480&lines=Web+apps+%C2%B7+Sites+web+%C2%B7+PWA;Des+apps+qui+marchent+m%C3%AAme+hors+ligne;En+alternance+chez+Capkpital+%F0%9F%9A%80)](https://git.io/typing-svg)
 
